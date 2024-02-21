@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6860D933-80A0-4D20-8CAF-F1EF9DD1A8E4}|OrderManagementApp.csproj|\\\\invard.local\\local_docs\\dohesh\\desktop\\delete later\\ordermanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6860D933-80A0-4D20-8CAF-F1EF9DD1A8E4}|OrderManagementApp.csproj|\\\\invard.local\\local_docs\\dohesh\\desktop\\delete later\\ordermanagementapp\\dataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6860D933-80A0-4D20-8CAF-F1EF9DD1A8E4}|OrderManagementApp.csproj|\\\\invard.local\\local_docs\\dohesh\\desktop\\delete later\\ordermanagementapp\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6860D933-80A0-4D20-8CAF-F1EF9DD1A8E4}|OrderManagementApp.csproj|\\\\invard.local\\local_docs\\dohesh\\desktop\\delete later\\ordermanagementapp\\idataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6860D933-80A0-4D20-8CAF-F1EF9DD1A8E4}|OrderManagementApp.csproj|\\\\invard.local\\local_docs\\dohesh\\desktop\\delete later\\ordermanagementapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6860D933-80A0-4D20-8CAF-F1EF9DD1A8E4}|OrderManagementApp.csproj|\\\\invard.local\\local_docs\\dohesh\\desktop\\delete later\\ordermanagementapp\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:46:38.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:46:14.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProcessor.cs",
+              "DocumentMoniker": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\DataProcessor.cs",
+              "RelativeDocumentMoniker": "DataProcessor.cs",
+              "ToolTip": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\DataProcessor.cs",
+              "RelativeToolTip": "DataProcessor.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAABCwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:44:45.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataProcessor.cs",
+              "DocumentMoniker": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\IDataProcessor.cs",
+              "RelativeDocumentMoniker": "IDataProcessor.cs",
+              "ToolTip": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\IDataProcessor.cs",
+              "RelativeToolTip": "IDataProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:44:29.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:43:58.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Entities\\Customer.cs",
+              "ToolTip": "\\\\invard.local\\local_docs\\Dohesh\\Desktop\\Delete later\\OrderManagementApp\\Entities\\Customer.cs",
+              "RelativeToolTip": "Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T05:45:58.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

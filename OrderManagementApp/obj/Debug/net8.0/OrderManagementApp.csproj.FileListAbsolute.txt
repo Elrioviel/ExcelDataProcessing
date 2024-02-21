@@ -1,0 +1,51 @@
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.AssemblyInfoInputs.cache
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.AssemblyInfo.cs
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.csproj.CoreCompileInputs.cache
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\OrderManagementApp.exe
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\OrderManagementApp.deps.json
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\OrderManagementApp.runtimeconfig.json
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\OrderManagementApp.dll
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\OrderManagementApp.pdb
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\ClosedXML.dll
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\ExcelNumberFormat.dll
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\Irony.dll
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\SixLabors.Fonts.dll
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\System.IO.Packaging.dll
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\bin\Debug\net8.0\XLParser.dll
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.csproj.AssemblyReference.cache
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\obj\Debug\net8.0\OrderMan.FC76D717.Up2Date
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.dll
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\obj\Debug\net8.0\refint\OrderManagementApp.dll
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.pdb
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.genruntimeconfig.cache
+\\invard.local\local_docs\Dohesh\Desktop\Delete later\OrderManagementApp\obj\Debug\net8.0\ref\OrderManagementApp.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\OrderManagementApp.exe
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\OrderManagementApp.deps.json
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\OrderManagementApp.runtimeconfig.json
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\OrderManagementApp.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\OrderManagementApp.pdb
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\ClosedXML.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\ExcelNumberFormat.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\Irony.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\SixLabors.Fonts.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\System.IO.Packaging.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\XLParser.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.csproj.AssemblyReference.cache
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.AssemblyInfoInputs.cache
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.AssemblyInfo.cs
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.csproj.CoreCompileInputs.cache
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.csproj.CopyComplete
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\obj\Debug\net8.0\refint\OrderManagementApp.dll
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.pdb
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\obj\Debug\net8.0\OrderManagementApp.genruntimeconfig.cache
+E:\Practice for interview\Projects\Test Task Akelon\ExcelDataProcessing\OrderManagementApp\obj\Debug\net8.0\ref\OrderManagementApp.dll
